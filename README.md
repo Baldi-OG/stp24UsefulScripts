@@ -24,6 +24,10 @@ In the directory of the run.sh file
 **Mac**\
 Maybe works the same way as linux. It's not really supported as of right now
 
-## Problems
+## Troubleshooting
+If the script won't start because of missing packages and/or the run script does not work
+you can simply install the python packages manually and directly run the main.py file
+
+## Problems & Requests
 If you encounter any problems write an Issue or contact me on Discord:\
 kollegefroschhut
