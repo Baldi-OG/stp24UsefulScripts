@@ -1,6 +1,9 @@
 # stp24UsefulScripts
 Useful scripts for stp24
 
+## Dependencies
+Python 3
+
 ## Installation
 Simply clone or download the repo.
 
