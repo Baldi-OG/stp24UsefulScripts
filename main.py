@@ -1,5 +1,5 @@
 import time
-
+import getpass
 import requests
 
 # Constants
@@ -105,7 +105,7 @@ if __name__ == '__main__':
 
     while auth_token == "":
         username = input("Enter your username: ")
-        password = input("Enter your password: ")
+        password = getpass.getpass("Enter  your password (hidden): ")
         login(username, password)
 
     print("What would you like to do?")
