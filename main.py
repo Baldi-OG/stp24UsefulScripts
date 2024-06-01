@@ -104,8 +104,8 @@ def cleanup_games():
 if __name__ == '__main__':
 
     while auth_token == "":
-        username = input("Enter ur username: ")
-        password = input("Enter ur password: ")
+        username = input("Enter your username: ")
+        password = input("Enter your password: ")
         login(username, password)
 
     print("What would you like to do?")
