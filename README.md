@@ -3,6 +3,7 @@ Useful scripts for stp24
 
 ## Dependencies
 Python 3
+(requirements.txt)
 
 ## Installation
 Simply clone or download the repo.
@@ -11,7 +12,7 @@ Simply clone or download the repo.
 ![screenshot](https://github.com/Baldi-OG/stp24UsefulScripts/assets/83312804/6082a951-59f2-4b60-b4a3-23a2bf1639a8)
 
 **Windows**\
-You need to execute run.bat
+Manually install the python packages from requirements.txt. Then run main.py
 
 **Linux**\
 You need to execute run.sh\
