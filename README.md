@@ -18,7 +18,7 @@ chmod a+x run.sh
 In the directory of the run.sh file
 
 **Mac**\
-Maybe works the same way as linux. Its not really supported as of right now
+Maybe works the same way as linux. It's not really supported as of right now
 
 
 ## Problems

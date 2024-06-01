@@ -1,1 +1,1 @@
-myenv\Scriptsctivate && python main.py
+myenv\Scripts\activate && python main.py

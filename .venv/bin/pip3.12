@@ -1,4 +1,4 @@
-#!/home/Baldi/PycharmProjects/stp24UsefullScripts/.venv/bin/python
+#!/home/Baldi/PycharmProjects/stp24UsefulScripts/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
