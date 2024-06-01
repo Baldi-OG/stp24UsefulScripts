@@ -8,6 +8,7 @@ Python 3
 Simply clone or download the repo.
 
 ## Usage 
+![screenshot](https://github.com/Baldi-OG/stp24UsefulScripts/assets/83312804/6082a951-59f2-4b60-b4a3-23a2bf1639a8)
 
 **Windows**\
 You need to execute run.bat
@@ -22,8 +23,6 @@ In the directory of the run.sh file
 
 **Mac**\
 Maybe works the same way as linux. It's not really supported as of right now
-
-![screenshot](https://github.com/Baldi-OG/stp24UsefulScripts/assets/83312804/6082a951-59f2-4b60-b4a3-23a2bf1639a8)
 
 ## Problems
 If you encounter any problems write an Issue or contact me on Discord:\
